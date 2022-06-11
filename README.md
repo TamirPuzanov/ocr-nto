@@ -1,3 +1,1 @@
-# ocr-nto
-
-Text detection and recognition
+# Распознование рукописного текста при помощи модели CRNN
